@@ -79,8 +79,8 @@
 | :--- | :--- | :--- |
 | **GitHub Actions** | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/actions) | Автоматическая сборка и CI/CD пайплайны |
 | **Docker Hub** | [![Docker Hub](https://img.shields.io/badge/Docker_Hub-0db7ed?logo=docker&logoColor=white)](https://hub.docker.com/r/yaroslavgrud/bocchi-downloader-server-edition) | Готовый серверный образ контейнера |
-| **Dockerfile** | [![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?logo=docker&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/Dockerfile) | Инструкция сборки окружения |
-| **docker-compose** | [![docker-compose](https://img.shields.io/badge/Docker-compose-2496ED?logo=docker&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/docker-compose.yml) | Быстрый запуск одной командой |
+| **Dockerfile** | [![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?logo=docker&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/Dockerfile) | Инструкция сборки окружения |
+| **docker-compose** | [![docker-compose](https://img.shields.io/badge/Docker-compose-2496ED?logo=docker&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/docker-compose.yml) | Быстрый запуск одной командой |
 
 ---
 
@@ -88,8 +88,8 @@
 
 | Режим | Бейдж | Характер сборки |
 | :--- | :--- | :--- |
-| 🧪 **Бета** | [![Beta bot](https://img.shields.io/badge/bocchi__bot__host.py-бета-orange)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/bocchi_bot_host.py) | Экспериментальная версия: новые фичи появляются тут первыми, но иногда может занервничать как Боччи перед соло `(＞﹏＜)` |
-| ⭐ **Стабильная** | [![Stable bot](https://img.shields.io/badge/bocchi__host__full.py-стабильный-success)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/bocchi_host_full.py) | Надёжная как ритм-секция Нидзики. Рекомендуется для повседневного использования `٩(◕‿◕｡)۶` |
+| 🧪 **Бета** | [![Beta bot](https://img.shields.io/badge/bocchi__bot__host.py-бета-orange)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/bocchi_bot_host.py) | Экспериментальная версия: новые фичи появляются тут первыми, но иногда может занервничать как Боччи перед соло `(＞﹏＜)` |
+| ⭐ **Стабильная** | [![Stable bot](https://img.shields.io/badge/bocchi__host__full.py-стабильный-success)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/bocchi_host_full.py) | Надёжная как ритм-секция Нидзики. Рекомендуется для повседневного использования `٩(◕‿◕｡)۶` |
 
 ---
 
@@ -99,11 +99,11 @@
 
 | Скрипт / Инструкция | Бейдж | Описание |
 | :--- | :--- | :--- |
-| **Shell-инструкция** | [![Shell guide](https://img.shields.io/badge/Shell-инструкция-0078D6?logo=gnu-bash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/readme_sh.md) | Гайд по работе со скриптами оболочки |
-| **CLI-инструкция** | [![CLI guide](https://img.shields.io/badge/CLI-инструкция-0078D6?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/ReadmeCLI.md) | Руководство по консольному режиму |
-| **Установка (`deploy`)** | [![deploy.sh](https://img.shields.io/badge/deploy.sh-установка-116062?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/deploy.sh) | Автоматическое развёртывание на сервере |
-| **Перезапуск (`restart`)** | [![restart.sh](https://img.shields.io/badge/restart.sh-перезапуск-orange?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/restart.sh) | Мягкий рестарт контейнеров/бота |
-| **Очистка (`clean`)** | [![clean.sh](https://img.shields.io/badge/docker_clean.sh-очистка-C51A4A?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/docker_clean.sh) | Генеральная уборка кэша и старых образов |
+| **Shell-инструкция** | [![Shell guide](https://img.shields.io/badge/Shell-инструкция-0078D6?logo=gnu-bash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/readme_sh.md) | Гайд по работе со скриптами оболочки |
+| **CLI-инструкция** | [![CLI guide](https://img.shields.io/badge/CLI-инструкция-0078D6?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/ReadmeCLI.md) | Руководство по консольному режиму |
+| **Установка (`deploy`)** | [![deploy.sh](https://img.shields.io/badge/deploy.sh-установка-116062?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/deploy.sh) | Автоматическое развёртывание на сервере |
+| **Перезапуск (`restart`)** | [![restart.sh](https://img.shields.io/badge/restart.sh-перезапуск-orange?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/restart.sh) | Мягкий рестарт контейнеров/бота |
+| **Очистка (`clean`)** | [![clean.sh](https://img.shields.io/badge/docker_clean.sh-очистка-C51A4A?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/docker_clean.sh) | Генеральная уборка кэша и старых образов |
 
 ---
 
@@ -119,11 +119,11 @@
 
 | Платформа | Бейдж |
 | :--- | :--- |
-| **Windows** | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/Bocchi_Downloader/bocchi_bot_windows.py) |
-| **CLI (консоль)** | [![CLI](https://img.shields.io/badge/CLI-4D4D4D?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/Bocchi_Downloader/bocchi_bot_CLI.py) |
-| **Raspberry Pi** | [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/Bocchi_Downloader/bocchi_bot_raspberry.py) |
-| **Raspberry Pi Legacy** | [![Raspberry Pi Legacy](https://img.shields.io/badge/Raspberry_Pi_Legacy-C51A4A?logo=raspberrypi&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/Bocchi_Downloader/bocchi_Legacy_bot_raspberry.py) |
-| **Android** | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/Yaroslav_grud/Bocchi_Downloader/bocchi_bot_android.py) |
+| **Windows** | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/Bocchi_Downloader/bocchi_bot_windows.py) |
+| **CLI (консоль)** | [![CLI](https://img.shields.io/badge/CLI-4D4D4D?logo=gnubash&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/Bocchi_Downloader/bocchi_bot_CLI.py) |
+| **Raspberry Pi** | [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/Bocchi_Downloader/bocchi_bot_raspberry.py) |
+| **Raspberry Pi Legacy** | [![Raspberry Pi Legacy](https://img.shields.io/badge/Raspberry_Pi_Legacy-C51A4A?logo=raspberrypi&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/Bocchi_Downloader/bocchi_Legacy_bot_raspberry.py) |
+| **Android** | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/StalkerBocchi/Bocchi-Downloader/blob/main/Bocchi_Downloader/bocchi_bot_android.py) |
 
 ### 🚀 Установка вручную
 
@@ -148,7 +148,7 @@ pip install ".[async]" # с поддержкой асинхронного кли
 *Эта часть проекта может не содержать всех возможностей, представленных в серверных решениях бота.*
 
 ```bash
-termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install python ffmpeg git binutils wget -y && pip install -U https://github.com/llistochek/yandex-music-downloader/archive/main.zip && python -m venv bocchi_env && bocchi_env/bin/pip install setuptools wheel && bocchi_env/bin/pip install python-telegram-bot[job-queue] catboxpy mutagen requests python-dotenv yandex-music && wget -O bocchi_bot_android.py https://raw.githubusercontent.com/StalkerBocchi/Bocchi-Downloader/Yaroslav_grud/Bocchi_Downloader/bocchi_bot_android.py && read -p "Введите токен Telegram бота: " TOKEN && echo "TELEGRAM_TOKEN=$TOKEN" > .env.example && bocchi_env/bin/python bocchi_bot_android.py
+termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install python ffmpeg git binutils wget -y && pip install -U https://github.com/llistochek/yandex-music-downloader/archive/main.zip && python -m venv bocchi_env && bocchi_env/bin/pip install setuptools wheel && bocchi_env/bin/pip install python-telegram-bot[job-queue] catboxpy mutagen requests python-dotenv yandex-music && wget -O bocchi_bot_android.py https://raw.githubusercontent.com/StalkerBocchi/Bocchi-Downloader/main/Bocchi_Downloader/bocchi_bot_android.py && read -p "Введите токен Telegram бота: " TOKEN && echo "TELEGRAM_TOKEN=$TOKEN" > .env.example && bocchi_env/bin/python bocchi_bot_android.py
 ```
 
 Для последующих запусков (после установки):
